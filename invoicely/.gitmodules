@@ -1,0 +1,3 @@
+[submodule "invoicely_vue"]
+	path = invoicely_vue
+	url = https://github.com/Ademolah/invoicely.git
